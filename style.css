@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@200&family=Raleway&display=swap');
+
+body {
+  background-color: black;
+}
+
+
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Onest';
+}
+
+
+
+h1 {
+  margin-top: 150px;
+  text-align: center;
+  color: white;
+}
+
+.hola {
+  text-align: center;
+
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: grey;
+}
+
+button {
+  height: 12%;
+  width: 4%;
+  color: darkmagenta;
+  background-color: darkorange;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-color: black;
+  border-radius: 10px;
+  font-size: 35px;
+}
+
+.row input {
+  width: 17%;
+  height: 10%;
+  padding-top: 25px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  border: 2px solid;
+
+  font-size: 35px;
+}
